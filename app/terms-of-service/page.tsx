@@ -31,7 +31,7 @@ export default function TermsOfService() {
         <h2 className="text-2xl font-semibold mb-4 mt-8">1. Use of the Service</h2>
         <h3 className="text-xl font-semibold mb-2">a. Eligibility</h3>
         <p>
-          To use the Service, you must be at least 12 years of age. By using the Service, you represent that you meet these requirements.
+          To use the Service, you must be at least 16 years of age. By using the Service, you represent that you meet these requirements.
         </p>
 
         <h3 className="text-xl font-semibold mb-2">b. Account Creation</h3>
